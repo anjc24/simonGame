@@ -8,6 +8,7 @@ body {
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
+  line-height: 90px;
 }
 
 .container {
@@ -50,4 +51,24 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+.click{
+/* text-decoration: none; */
+color:#FEF2BF;
+}
+a:hover{
+  color: :white;
+}
+.ins{
+  font-size: 20px;
+  color: grey;
+}
+.insb{
+  text-align: left;
+  margin-top: 50px;
+  font-size: 20px;
+  color:white;
+}
+h1{
+  text-align: center;
 }
